@@ -5,6 +5,7 @@ class sum
         int a=10;
         int b=12; //Some change made in comments
         int d=11;
+        int c=7;
         System.out.println(a+b);
     }
 }
